@@ -2,7 +2,7 @@
 
 Gringo: a simple two-page mobile website template.
 
-**[Live demo](https://mobifreaks.github.io/Gringo-Mobi/)** ·
+**[Live demo](https://mobifreaks.munawarahmed.com/Gringo-Mobi/)** ·
 [Download zip](https://github.com/mobifreaks/Gringo-Mobi/archive/HEAD.zip) ·
 [All 22 templates](https://munawarahmed.com/mobifreaks)
 
